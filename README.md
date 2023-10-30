@@ -22,7 +22,7 @@ O projeto To-do-list é um registrador de usuários e tarefas.
 Os usuários recebem um tratamento de criptográfia (BCrypt) ao cadastrar os ID's.
 
 - [Acesse o projeto finalizado, online]()
-Você pode visualizar o projeto através [DESSE LINK]([https://www.figma.com/community/file/1187422022288947321](https://dashboard.render.com/web/srv-cklnv3o710pc73dguo50/deploys/dep-ckvggteb0mos739g1gag)). É necessário ter conta no [Render]((https://dashboard.render.com/)) para acessá-lo.
+Você pode visualizar o projeto através [DESSE LINK](https://dashboard.render.com/web/srv-cklnv3o710pc73dguo50/deploys/dep-ckvggteb0mos739g1gag). É necessário ter conta no [Render](https://dashboard.render.com/) para acessá-lo.
 
 ## 🔖 Layout
 
