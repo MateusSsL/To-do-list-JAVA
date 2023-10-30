@@ -20,7 +20,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O projeto To-do-list é um registrador de usuários e tarefas.
 Os usuários recebem um tratamento de criptográfia (BCrypt) ao cadastrar os ID's.
-Registro feito com APIDOG
+Registro feito com APIDOG.
 
 Você pode visualizar o projeto através [DESSE LINK](https://dashboard.render.com/web/srv-cklnv3o710pc73dguo50/deploys/dep-ckvggteb0mos739g1gag). É necessário ter conta no [Render](https://dashboard.render.com/) para acessá-lo.
 
