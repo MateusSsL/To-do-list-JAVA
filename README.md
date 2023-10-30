@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img alt="projeto todolist" src=".github/demo1.jpg" width="100%">
+  <img alt="projeto todolist" src=".github/imagem.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
